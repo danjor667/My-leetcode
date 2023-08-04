@@ -3,7 +3,9 @@
 testing
 """
 import unittest
-from solution import two_sum
+#import  two_sum from solution or solution2
+#dpending on which solution to test
+from solution2 import two_sum
 
 
 class Test_two_sum(unittest.TestCase):
