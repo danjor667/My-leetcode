@@ -19,6 +19,10 @@ def median(nums1: list, nums2: list) -> float:
         return float(nums[n])
     else:
         return nums[n] + nums[n - 1] / 2
+"""
+O(m+n)(log(m+n))
+note time complexity is greater than required O(log(m+n))
+"""
 
 
 if __name__ == "__main__":
