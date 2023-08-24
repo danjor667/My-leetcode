@@ -8,10 +8,10 @@ Each solution contains a distinct board configuration of the n-queens' placement
 
 Example 1:
 <div>
-<img = "https://assets.leetcode.com/uploads/2020/11/13/queens.jpg", width= 100px, height= 100px>
+![image of board](images/queens(1).jpg)
 </div>
 <div>
-<img = "https://assets.leetcode.com/uploads/2020/11/13/queens.jpg", width=100px, height=100px>
+![image of board](images/queens.jpg)
 </div>
 
 Input: n = 4
