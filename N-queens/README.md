@@ -8,10 +8,10 @@ Each solution contains a distinct board configuration of the n-queens' placement
 
 Example 1:
 <div>
-![image of board](images/queens(1).jpg)
+<img ="images/queens(1).jpg", width=130px, height=130px>
 </div>
 <div>
-![image of board](images/queens.jpg)
+<img ="images/queens.jpg", width=130px, height=130px>
 </div>
 
 Input: n = 4
