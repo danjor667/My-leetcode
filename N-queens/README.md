@@ -6,7 +6,7 @@ Each solution contains a distinct board configuration of the n-queens' placement
 
  
 
-Example 1:
+<h3>Example 1:</h3>
 <div>
 <img src="images/queens.jpg" width=260px height=130px>
 </div>
