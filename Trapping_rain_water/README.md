@@ -4,7 +4,7 @@ Given n non-negative integers representing an elevation map where the width of e
 
 <h3>Example 1:</h3>
 <div>
- <img src="images/rainwatertrap.png" width=230px height=170px>
+ <img src="images/rainwatertrap.png" width=450px height=170px>
 </div>
 
 Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]<br>
