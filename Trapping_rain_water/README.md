@@ -2,9 +2,11 @@ Given n non-negative integers representing an elevation map where the width of e
 
  
 
-Example 1:
+<h3>Example 1:</h3>
+<div>
+ <img src="images/rainwatertrap.png" width=230px height=170px>
+</div>
 
-
-Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
-Output: 6
-Explanation: The above elevation map (black section) is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped.
+Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]<br>
+Output: 6<br>
+<h4>Explanation</h4>: The above elevation map (black section) is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain waterh (blue section) are being trapped.
