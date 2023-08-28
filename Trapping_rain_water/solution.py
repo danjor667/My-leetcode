@@ -22,6 +22,10 @@ def trap(height: list) -> int:
             area == 0
         max_area += area
     return max_area
+"""
+time complexity O(n^2)
+space complexity O(1)
+"""
 
 if __name__ == "__main__":
     import doctest
